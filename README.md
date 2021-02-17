@@ -4,8 +4,8 @@ Este é um diário de bordo, um registro da evolução do grupo de estudos.
 
 Iniciado oficialmente em Janeiro de 2021 este projeto tem como objetivo estudar, testar, e compartilhar conhecimentos sobre o TJBot da IBM, especiamente em Português, complementando os cursos de Inteligência Artificial, Programação e afins do Fab Lab Livre SP.
 
-Responsável: Priscila Corrêa{
-priscila.correa@itsbrasil.org.br || https://github.com/PriscilaCorrea }
+Responsável: Priscila Corrêa
+{priscila.correa@itsbrasil.org.br || https://github.com/PriscilaCorrea }
 
 _
 "Olá, meu nome é TJBot!
@@ -15,7 +15,7 @@ Você pode me cortar à laser ou me imprimir em 3D, então use uma das minhas re
 Mal posso esperar para ver o que faremos juntos! #TJBot"
 https://ibmtjbot.github.io/
 
-
+_
 Capítulo 1 {
 
 #Definindo objetivos: 
