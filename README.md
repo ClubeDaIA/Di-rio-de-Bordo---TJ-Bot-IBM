@@ -7,6 +7,14 @@ Iniciado oficialmente em Janeiro de 2021 este projeto tem como objetivo estudar,
 Responsável: Priscila Corrêa{
 priscila.correa@itsbrasil.org.br || https://github.com/PriscilaCorrea }
 
+_
+"Olá, meu nome é TJBot!
+Eu sou um projeto de código aberto projetado para ajudar voc~e a usar serviços de inteligência artificial de um jeito divertido.
+Você pode me cortar à laser ou me imprimir em 3D, então use uma das minhas receitas para me trazer à vida!
+
+Mal posso esperar para ver o que faremos juntos! #TJBot"
+https://ibmtjbot.github.io/
+
 
 Capítulo 1 {
 
