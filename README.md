@@ -11,9 +11,9 @@ priscila.correa@itsbrasil.org.br || https://github.com/PriscilaCorrea }
 Capítulo 1 {
 
 #Definindo objetivos: 
-[1º mês: 
-  [ok] Imprimir as partes em 3D;
-  [ok] Criar um repositório no GitHub :)
+[1º mês:  
+<br>  [ok] Imprimir as partes em 3D;
+<br>  [ok] Criar um repositório no GitHub :)
   [ ] Procurar material em Português;
   [ ] Montar a parte física;
   [ ] Configurar o Raspberry e junta-lo à parte física;
