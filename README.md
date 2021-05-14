@@ -48,3 +48,11 @@ Capítulo 1 {
 
 }
 
+#Aprendizagem de humanos sobre Aprendizado de máquinas{
+Curso: Fundamentos da Inteligência Artificial: Aprendizado de Máquina
+Onde: LinkedIn
+Duração: 1h16m
+Custo: 
+https://www.linkedin.com/learning/fundamentos-da-inteligencia-artificial-aprendizado-de-maquina/bem-vindos?contextUrn=urn%3Ali%3AlearningCollection%3A6798270590869348352
+}
+
