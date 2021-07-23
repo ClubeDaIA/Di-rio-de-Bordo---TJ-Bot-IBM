@@ -56,3 +56,13 @@ Custo:
 https://www.linkedin.com/learning/fundamentos-da-inteligencia-artificial-aprendizado-de-maquina/bem-vindos?contextUrn=urn%3Ali%3AlearningCollection%3A6798270590869348352
 }
 
+
+#CONFIGURANDO O RASPIBERRY PARA RECEBER O TJBOT
+https://github.com/ibmtjbot/tjbot/tree/master/bootstrap
+
+
+#TESTANDO A PRIMEIRA RECEITA (CONVERSAÇÃO)
+https://github.com/ibmtjbot/tjbot/tree/master/recipes/conversation
+
+
+
